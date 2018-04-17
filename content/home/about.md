@@ -30,7 +30,7 @@ weight = 5
 
 [[education.courses]]
   course = "MEng in Data Transmission and Information Security"
-  institution = "Cheikh Anto Diop University"
+  institution = "Cheikh Anta Diop University"
   year = 2009
 
 [[education.courses]]

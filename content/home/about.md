@@ -10,31 +10,36 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Cybersecurity",
+    "Cloud computing",
+    "Security risk analysis",
+    "Internet of Things",
+    "Cyber-Physical Systems
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "Ph.D. in Computer Science"
+  institution = "Nara Institute of Science and Technology"
+  year = 2015
+
+[[education.courses]]
+  course = "MEng in Computer Science"
+  institution = "Nara Institute of Science and Technology"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "MEng in Data Transmission and Information Security"
+  institution = "Cheikh Anto Diop University"
   year = 2009
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Physics"
+  institution = "Cheikh Anta Diop University"
+  year = 2007
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Doudou Fall is an Assistant Professor of computer science at the Laboratory for Cyber Resilience, Nara Institute of Science and Technology (NAIST). His research interests include cloud computing security, security risk quantification, Internet of Things (IoT) security, Cyber-Physical Systems (drones, Industrial Control Systems, etc.) security. He supervises several Ph.D. and masters students.

@@ -23,8 +23,8 @@ publication = "In *Journal of Information Processing*."
 publication_short = "In *JIP*"
 
 # Abstract and optional shortened version.
-abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
-abstract_short = "A short version of the abstract."
+abstract = "Cloud computing provides many advantages for both the cloud service provider and the clients. It is also infamous for being highly dynamic and for having numerous security issues. The dynamicity of cloud computing implies that dynamic security mechanisms are being employed to enforce its security, especially in regards to access decisions. However, this is surprisingly not the case. Static traditional authorization mechanisms are being used in cloud environments, leading to legitimate doubts on their ability to fulfill the security needs of the cloud. We propose a risk adaptive authorization mechanism (RAdAM) for a simple cloud deployment, collaboration in cloud computing and federation in cloud computing. We use a fuzzy inference system to demonstrate the practicability of RAdAM. We complement RAdAM with a Vulnerability Based Authorization Mechanism (VBAM) which is a real-time autho- rization model based on the average vulnerability scores of the objects present in the cloud. We demonstrated the usefulness of VBAM in a use case featuring OpenStack."
+#abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
 image_preview = ""

@@ -215,25 +215,25 @@ defaultContentLanguageInSubdir = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:test@example.org"
+  #[[params.social]]
+  #  icon = "envelope"
+  #  icon_pack = "fa"
+  #  link = "mailto:test@example.org"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+  #[[params.social]]
+  #  icon = "twitter"
+  #  icon_pack = "fa"
+  #  link = "//twitter.com/GeorgeCushen"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
     link = "https://scholar.google.com/citations?hl=en&user=pMAP1uIAAAAJ&view_op=list_works&citft=1&citft=2&citft=3&email_for_op=laffdoudou%40gmail.com&gmla=AJsN-F75tsGT2k-A3lDO_rrFMUyPjYTffX-afvzUtO2YxbOGfojVI1PgCuDxLlH8c4BM0D10DeszmqwtTIUzJ86oi9-vZdLUtSVACwcHDw2kmRSP0KvQj908B1W5_h0o0Ynh-WkWQYMFZa5sf_ECoZEZzyjpCdZeeiZxA4I1OuOPofRs1pqGe8YA-n2stzTFw2RlrEfxGTEJeIceC0YqUc2NlyhEymQmye8kJRJeXSnMvdHIerSiNSR67AZQJnWOemRcShJKFg1X"
 
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/gcushen"
+  #[[params.social]]
+  #  icon = "github"
+  #  icon_pack = "fa"
+  #  link = "//github.com/gcushen"
 
 
 # Navigation Links

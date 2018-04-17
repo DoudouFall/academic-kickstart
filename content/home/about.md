@@ -12,8 +12,6 @@ weight = 5
   interests = [
     "Cybersecurity",
     "Cloud computing",
-    "Security risk analysis",
-    "Internet of Things",
     "Cyber-Physical Systems
   ]
 

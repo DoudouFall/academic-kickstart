@@ -31,10 +31,7 @@ publication_short = "In *Hindawi*"
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
-
-#Is this a recent publication
-recent = true
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

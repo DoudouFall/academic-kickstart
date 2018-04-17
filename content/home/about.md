@@ -12,7 +12,9 @@ weight = 5
   interests = [
     "Cybersecurity",
     "Cloud computing",
-    "Cyber-Physical Systems
+    "Internet of Things",
+    "Cyber-Physical systems",
+    "Cyber-Physical Systems"
   ]
 
 # List your qualifications (such as academic degrees).

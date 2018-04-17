@@ -60,11 +60,11 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "doudou-f_at_is(dot)naist(dot)jp"
-  address = "Laboratory for Cyber Resilience
-             Graduate School of Information Science, 
-             Nara Institute of Science and Technology 
-             3rd Floor in Bldg. A, 8916-5 Takayama, Ikoma, Nara 
-             630-0192, JAPAN "
+  address = "Laboratory for Cyber Resilience,
+             Graduate School of Information Science,
+             Nara Institute of Science and Technology,
+             3rd Floor in Bldg. A, 8916-5 Takayama, Ikoma, Nara,
+             630-0192, JAPAN"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   #skype = "echo123"

@@ -39,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.jstage.jst.go.jp/article/ipsjjip/24/2/24_371/_pdf/-char/en"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -47,7 +47,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.jstage.jst.go.jp/article/ipsjjip/24/2/24_371/_pdf/-char/en"
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

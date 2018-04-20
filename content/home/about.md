@@ -42,4 +42,4 @@ weight = 5
 
 # Biography
 
-Doudou Fall is an Assistant Professor of Computer Science at the Laboratory for Cyber Resilience, Nara Institute of Science and Technology (NAIST). His research interests revolve around quantifying the security risk of: cloud computing, the Internet of Things (IoT), Industrial Control Systems, and Cyber-Physical Systems. He is currently supervising several Ph.D. and masters students.
+Doudou Fall is an Assistant Professor of Computer Science at the Laboratory for Cyber Resilience, Nara Institute of Science and Technology (NAIST). His research interests revolve around quantifying the security risk of: cloud computing, the Internet of Things (IoT), Industrial Control Systems, and Cyber-Physical Systems. He also likes to play with security vulnerability data and the Common Vulnerability Scoring System (CVSS). He is currently supervising several Ph.D. and masters students.
